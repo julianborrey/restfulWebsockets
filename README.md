@@ -139,7 +139,7 @@ your WebsocketRails controller.
 
 * This plugin code was developed with Rails 4 and Ruby 2.0.0.
 * You will need to have the 
-  [WebsocketRails Gem](https://github.com/websocket-rails/websocket-rails/issues/60) 
+  [WebsocketRails Gem](https://github.com/websocket-rails/websocket-rails) 
   installed.
 * You will need to have [jquery.cookie.js](https://github.com/carhartl/jquery-cookie) 
   included in your pipeline.
